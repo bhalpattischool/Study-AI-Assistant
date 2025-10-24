@@ -1,0 +1,7 @@
+{
+  "name": "Study AI",
+  "description": "A versatile chat application powered by Google's Gemini models, featuring standard chat, hands-free voice conversations, web search grounding, and deep thinking capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
